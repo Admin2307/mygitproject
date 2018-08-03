@@ -1,0 +1,11 @@
+<suite name="Maventesting" parellel="false">
+	<test name ="testing">
+		<classes>
+			<class name="mavenTesting.Testing2080803">
+			
+			</class>
+		
+		</classes>	
+	
+	</test>
+</suite>
